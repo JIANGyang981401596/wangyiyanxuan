@@ -450,4 +450,18 @@
   height: 429px;
   background: crimson; }
 
+.flashSaleLt {
+  width: 104px;
+  height: 28px; }
+
+.flashSaleRt {
+  width: 129px;
+  height: 28px;
+  float: right; }
+
+.flashSaleLt .name {
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 20px; }
+
 /*# sourceMappingURL=index.css.map */
